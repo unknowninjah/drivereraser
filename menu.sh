@@ -1,4 +1,5 @@
 #!/bin/sh
+#written for DELL Power Edge 710
 
 PS3='Please enter your choice: '
 options=("Start Test" "HDD Progress" "Check Times" "Quit")
